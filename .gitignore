@@ -1,7 +1,2 @@
 # Neglect Vs code configuration.
 .vscode
-
-# dummy sample
-*.bak
-
-#lms
